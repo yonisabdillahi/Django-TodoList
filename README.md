@@ -1,2 +1,2 @@
 # Django-TodoList
-Django Todo List Tutorial
+Django Todo List Tutorial.
